@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.babd4f4d.css",
+    "main.js": "/my-app/static/js/main.908700d5.js",
+    "static/media/pinus1.png": "/my-app/static/media/pinus1.e8cc7779474405becfdf.png",
+    "static/media/lindomar.png": "/my-app/static/media/lindomar.c8c9bfce86220fe7c973.png",
+    "static/media/curved0.jpg": "/my-app/static/media/curved0.d146ec6e9401aa9d52c5.jpg",
+    "static/media/curved14.jpg": "/my-app/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
+    "static/media/waves-white.svg": "/my-app/static/media/waves-white.eac3c8078f7e1e28ef33f010c9782f40.svg",
+    "static/media/pinus3.jpg": "/my-app/static/media/pinus3.d8f6aaefc12b13bda565.jpg",
+    "static/media/rocket-white.png": "/my-app/static/media/rocket-white.de5786399f850a27a362.png",
+    "static/media/curved-6.jpg": "/my-app/static/media/curved-6.71ee1d1cc8196ed2126b.jpg",
+    "static/media/pinus5.jpg": "/my-app/static/media/pinus5.56ad3fc72eba530b0a89.jpg",
+    "static/media/pinus4.jpg": "/my-app/static/media/pinus4.9c2cfe0bbd96360e51cd.jpg",
+    "static/media/ivancik.jpg": "/my-app/static/media/ivancik.442b474727c414bb3b85.jpg",
+    "static/media/pinus6.jpg": "/my-app/static/media/pinus6.ecef1a64e391c73e8d68.jpg",
+    "static/media/white-curved.jpeg": "/my-app/static/media/white-curved.a5b7db662b0b14ab5534.jpeg",
+    "static/media/visa.png": "/my-app/static/media/visa.71c0d5e9e2aaee42e4c3.png",
+    "static/media/madereiradoisirmaos.png": "/my-app/static/media/madereiradoisirmaos.3f82b230c7237c33ef79.png",
+    "static/media/mastercard.png": "/my-app/static/media/mastercard.27fca3e7637a9458fb64.png",
+    "static/media/team-1.jpg": "/my-app/static/media/team-1.c821a2730a9c8e3f68eb.jpg",
+    "static/media/team-3.jpg": "/my-app/static/media/team-3.b75146da5bfdf9d8ae61.jpg",
+    "static/media/logo-ctlol.png": "/my-app/static/media/logo-ctlol.76483a7d73a8825d2c4e.png",
+    "static/media/team-4.jpg": "/my-app/static/media/team-4.a1e1c29f1b839ddae393.jpg",
+    "static/media/bruce-mars.jpg": "/my-app/static/media/bruce-mars.45f6477957606abd2f24.jpg",
+    "static/media/team-2.jpg": "/my-app/static/media/team-2.e725aef8c892cb21f262.jpg",
+    "static/media/logo-slack.svg": "/my-app/static/media/logo-slack.d8feb9c5b2a92c377e8c5b7a10faabc9.svg",
+    "static/media/logo-xd.svg": "/my-app/static/media/logo-xd.77e7dd1528183ab292936e4f91241cf0.svg",
+    "static/media/logo-invision.svg": "/my-app/static/media/logo-invision.f3413d25dc0761bcc615835e48482191.svg",
+    "static/media/logo-spotify.svg": "/my-app/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg",
+    "static/media/logo-jira.svg": "/my-app/static/media/logo-jira.f9c1ddbe3e751a29bd16580977ade064.svg",
+    "static/media/logo-atlassian.svg": "/my-app/static/media/logo-atlassian.d92c4f81bb3efbf288b3ef71ce2fbfb0.svg",
+    "index.html": "/my-app/index.html",
+    "main.babd4f4d.css.map": "/my-app/static/css/main.babd4f4d.css.map",
+    "main.908700d5.js.map": "/my-app/static/js/main.908700d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.babd4f4d.css",
+    "static/js/main.908700d5.js"
+  ]
+}
