@@ -1,5 +1,5 @@
 # Acesse o site através do link
-https://erbert-gadelha.github.io/home
+https://erbert-gadelha.github.io/my-app
 
 # Getting Started with Create React App
 
