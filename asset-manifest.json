@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.ca6d7e5d.css",
-    "main.js": "/my-app/static/js/main.1d90f130.js",
+    "main.css": "/my-app/static/css/main.df33e471.css",
+    "main.js": "/my-app/static/js/main.6f29b4b2.js",
     "static/media/pinus1.png": "/my-app/static/media/pinus1.e8cc7779474405becfdf.png",
     "static/media/lindomar.png": "/my-app/static/media/lindomar.c8c9bfce86220fe7c973.png",
     "static/media/curved0.jpg": "/my-app/static/media/curved0.d146ec6e9401aa9d52c5.jpg",
@@ -19,11 +19,11 @@
     "static/media/team-2.jpg": "/my-app/static/media/team-2.e725aef8c892cb21f262.jpg",
     "static/media/logo-spotify.svg": "/my-app/static/media/logo-spotify.3f055cde07c024fb2b73063b46416f1b.svg",
     "index.html": "/my-app/index.html",
-    "main.ca6d7e5d.css.map": "/my-app/static/css/main.ca6d7e5d.css.map",
-    "main.1d90f130.js.map": "/my-app/static/js/main.1d90f130.js.map"
+    "main.df33e471.css.map": "/my-app/static/css/main.df33e471.css.map",
+    "main.6f29b4b2.js.map": "/my-app/static/js/main.6f29b4b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca6d7e5d.css",
-    "static/js/main.1d90f130.js"
+    "static/css/main.df33e471.css",
+    "static/js/main.6f29b4b2.js"
   ]
 }
